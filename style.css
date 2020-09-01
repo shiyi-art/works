@@ -4,8 +4,10 @@
             margin: 0;
             padding: 0;
         }
-		 #header {
+		 .header {
+			 min-height:13rem;
             position: relative;
+			 clear: both;
         }
 
         .p1 {
@@ -35,7 +37,7 @@
             width: 10%;
         }
 
-          #header   a {
+          .header   a {
             color: #000;
             text-decoration: none;
         }
