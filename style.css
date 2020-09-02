@@ -97,7 +97,7 @@
             }
 
         .as a {
-            margin-left:30px;
+        margin:0.8rem;
         color:#808080;
         font-size:25px;
         }
@@ -141,6 +141,7 @@
 		text-align: center;
 		}	
     .as a{
+		margin:0.8rem;
 		text-align: left;
 		font-size: 1rem;
 		}
