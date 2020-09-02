@@ -134,10 +134,13 @@
 		}
 	.img1 {
 		width: 30%;
-		left: 6.5rem;
+		left: 6rem;
 		
 		}		
-
+    .as a{
+		
+		font-size: 1rem;
+		}
 
 .left, .right, #font, #footer {
   width: 100%;
